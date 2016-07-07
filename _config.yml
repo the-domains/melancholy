@@ -2,6 +2,7 @@ name: melancholy
 favicon: null
 layout_spectrum: 0.44884380837902427
 typography_spectrum: 0.6997577380388975
+title: melancholy
 cta:
   domain: null
   bucket: null
